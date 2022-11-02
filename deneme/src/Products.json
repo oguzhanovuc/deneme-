@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1 ,
+        "title" : "Sakız" ,
+        "Price" : 0.5,
+        "image" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07120219/07120219-68be82-1650x1650.jpg"
+    },
+
+    {
+        "id" : 2 ,
+        "title" : "Ayakkabı" ,
+        "Price" : 10,
+        "image" : "https://contents.mediadecathlon.com/p1568439/k$1b5dfd33c021e7f0852b42992b6eddf9/sq/ayakkabilar.jpg?format=auto&f=800x0"
+    },
+    {
+        "id" : 3 ,
+        "title" : "Kek" ,
+        "Price" : 1,
+        "image" : "https://cdn.yemek.com/mnresize/940/940/uploads/2014/07/sade-kek-tarifi-yeni.jpg"
+    },
+    {
+        "id" : 4 ,
+        "title" : "Kola" ,
+        "Price" : 5,
+        "image" :"https://ayb.akinoncdn.com/products/2019/01/18/3544/5aa1ee14-1c83-4213-a62b-773c4785e187_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+        "id" : 5 ,
+        "title" : "Araba" ,
+        "Price" : 110,
+        "image" :"https://st2.myideasoft.com/idea/cy/49/myassets/products/109/07-302-herby.jpg?revision=1548253070"
+    }
+]
